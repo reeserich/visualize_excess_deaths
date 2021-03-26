@@ -1,5 +1,5 @@
-# visualize_excess_deaths
-Visualize excess all-cause deaths in the USA during the COVID-19 pandemic by race.
+# Visualizing American excess deaths during the COVID-19 pandemic by race and ethnicity
+The following plots show weekly all-cause deaths by race and ethnicity over time.
 
 ### Option 1: Gifs in one column
 
