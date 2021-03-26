@@ -14,12 +14,16 @@ Visualize excess all-cause deaths in the USA during the COVID-19 pandemic by rac
 
 <table>
   <tr>
-    <td> <img src="non_hispanic_white_c.gif"  alt="1" width = 200px height = 200px ></td>
-    <td><img src="non_hispanic_black_c.gif" alt="2" width = 200px height = 200px></td>
+    <td> <img src="non_hispanic_white_c.gif"  alt="1" width = 300px height = 300px ></td>
+    <td><img src="non_hispanic_black_c.gif" alt="2" width = 300px height = 300px></td>
    </tr> 
    <tr>
-    <td> <img src="hsipanic_latino_c.gif"  alt="1" width = 200px height = 200px ></td>
-    <td><img src="non_hispanic_asian_c.gif" alt="2" width = 200px height = 200px></td>
+    <td> <img src="hispanic_latino_c.gif"  alt="1" width = 300px height = 300px ></td>
+    <td><img src="non_hispanic_asian_c.gif" alt="2" width = 300px height = 300px></td>
+  </td>
+   <tr>
+    <td> <img src="non_hispanic_american_indian_alaska_native_c.gif"  alt="1" width = 300px height = 300px ></td>
+    <td><img src="other_c.gif" alt="2" width = 300px height = 300px></td>
   </td>
   </tr>
 </table>
