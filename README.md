@@ -13,7 +13,7 @@ Visualize excess all-cause deaths in the USA during the COVID-19 pandemic by rac
 ![other](other_c.gif)
 
 <table>
-  <tr>
+  <tr style="background-color:#FF0000">
     <td> <img src="non_hispanic_white_c.gif"  alt="1" width = 300px height = 300px ></td>
     <td><img src="non_hispanic_black_c.gif" alt="2" width = 300px height = 300px></td>
    </tr> 
