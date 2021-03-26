@@ -2,6 +2,7 @@
 Visualize excess all-cause deaths in the USA during the COVID-19 pandemic by race.
 
 ![non_hispanic_white](non_hispanic_white_c.gif){:height="50%" width="50%"}
+<img src="non_hispanic_white_c.gif" width="250" height="250"/>
 ![non_hispanic_black](non_hispanic_black_c.gif)
 ![hispanic_latino](hispanic_latino_c.gif)
 ![non_hispanic_asian](non_hispanic_asian_c.gif)
