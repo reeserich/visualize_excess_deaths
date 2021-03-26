@@ -3,6 +3,7 @@ Visualize excess all-cause deaths in the USA during the COVID-19 pandemic by rac
 
 <img src="non_hispanic_white_c.gif" width="250" height="250"/>
 
+| ------------- | ------------- |
 | Content Cell  | Content Cell  |
 | Content Cell  | Content Cell  |
 
