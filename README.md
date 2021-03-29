@@ -3,9 +3,13 @@ The following plots show weekly all-cause deaths by race and ethnicity over time
 [Watch on YouTube.](https://youtu.be/xJOJGUFKKkc)
 #### (More complete description/abstract to come.)
 
-### Option 0: single gif
+### Option 0a: single gif
 
-<img src='gif/temp_demo.gif' width="500">
+<img src='gif/horizontal_0.gif' height="500">
+
+### Option 0b: single gif
+
+<img src='gif/vertical_0.gif' width="500">
 
 ### Option 1: Gifs in one column
 
