@@ -1,10 +1,11 @@
 # Visualizing American excess deaths during the COVID-19 pandemic by race and ethnicity
 The following plots show weekly all-cause deaths by race and ethnicity over time.
+[Watch on YouTube.](https://youtu.be/xJOJGUFKKkc)
 #### (More complete description/abstract to come.)
 
 ### Option 0: single gif
 
-<img src='gif/temp_demo.gif' width="600">
+<img src='gif/temp_demo.gif' width="500">
 
 ### Option 1: Gifs in one column
 
