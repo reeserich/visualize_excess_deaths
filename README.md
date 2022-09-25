@@ -5,7 +5,7 @@ American communities of color have shouldered a disproportionate share of the CO
 
 ### The following visualizations show weekly all-cause deaths by race and ethnicity over time, from 2014 to early 2021.
 
-Data is from the Centers for Disease Control and Prevention National Center for Health Statistics (CDC-NCHS). Find the raw data [here](https://data.cdc.gov/NCHS/Weekly-counts-of-deaths-by-jurisdiction-and-race-a/qfhf-uhaa) or in the [directory 'data'](https://github.com/reeserich/visualize_excess_deaths/tree/main/data). Names of racial and ethnic groups presented reflect those used by the CDC-NCHS. Data in recent weeks are incomplete--only 60% of death records are submitted to CDC-NCHS within 10 days of the date of death, and completeness varies by jurisdiction. Video files of each image can be found in the [directory 'mp4'](https://github.com/reeserich/visualize_excess_deaths/tree/main/mp4).
+Data is from the Centers for Disease Control and Prevention National Center for Health Statistics (CDC-NCHS). Find the raw data [here](https://data.cdc.gov/NCHS/Weekly-counts-of-deaths-by-jurisdiction-and-race-a/qfhf-uhaa). Names of racial and ethnic groups presented reflect those used by the CDC-NCHS. Data in recent weeks are incomplete--only 60% of death records are submitted to CDC-NCHS within 10 days of the date of death, and completeness varies by jurisdiction. Video files of each image can be found in the [directory 'mp4'](https://github.com/reeserich/visualize_excess_deaths/tree/main/mp4).
 
 *These visualizations were submitted to the 2021 Data Visualization Contest, hosted by Northwestern IT Research Computing Services and Northwestern Libraries.*
 
