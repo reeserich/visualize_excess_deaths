@@ -1,7 +1,7 @@
 # Visualizing American excess deaths during the COVID-19 pandemic by race and ethnicity
-#### Reese Richardson, 21/03/29
+#### Reese Richardson, updated 25 Sep 2022
 
-American communities of color have shouldered a disproportionate share of the COVID-19 pandemic’s burden. For instance, at peak, Hispanic/Latino Americans experienced a weekly all-cause death burden 130.9% in excess of previous years. Not all excess deaths are directly attributable to COVID-19—there is emerging evidence that delays in care associated with pandemic-related closures and shortages also contributed to increased mortality among all demographics<sup>[1](https://www.cdc.gov/mmwr/volumes/69/wr/mm6936a4.htm)</sup>. The phenomenon of increased death burden among American minority groups reflects a higher COVID-19 disease burden, poorer access to quality health care services, and increased prevalence of comorbid conditions for COVID-19 relative to White Americans.
+American communities of color have shouldered a disproportionate share of the COVID-19 pandemic's burden. For instance, at peak, Hispanic/Latino Americans experienced a weekly all-cause death burden 130.9% in excess of previous years. Not all excess deaths are directly attributable to COVID-19—there is emerging evidence that delays in care associated with pandemic-related closures and shortages also contributed to increased mortality among all demographics<sup>[1](https://www.cdc.gov/mmwr/volumes/69/wr/mm6936a4.htm)</sup>. The phenomenon of increased death burden among American minority groups reflects a higher COVID-19 disease burden, poorer access to quality health care services, and increased prevalence of comorbid conditions for COVID-19 relative to White Americans.
 
 ### The following visualizations show weekly all-cause deaths by race and ethnicity over time, from 2014 to early 2021.
 
