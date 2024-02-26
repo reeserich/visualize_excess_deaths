@@ -3,7 +3,7 @@
 
 American communities of color have shouldered a disproportionate share of the COVID-19 pandemic's burden. For instance, at peak, Hispanic/Latino Americans experienced a weekly all-cause death burden 130.9% in excess of previous years. Not all excess deaths are directly attributable to COVID-19—there is emerging evidence that delays in care associated with pandemic-related closures and shortages also contributed to increased mortality among all demographics<sup>[1](https://www.cdc.gov/mmwr/volumes/69/wr/mm6936a4.htm)</sup>. The phenomenon of increased death burden among American minority groups reflects a higher COVID-19 disease burden, poorer access to quality health care services, and increased prevalence of comorbid conditions for COVID-19 relative to White Americans.
 
-### The following visualizations show weekly all-cause deaths by race and ethnicity over time, from 2014 to early 2021.
+### The following visualizations show weekly all-cause deaths by race and ethnicity over time, from 2014 to mid 2022.
 
 Data is from the Centers for Disease Control and Prevention National Center for Health Statistics (CDC-NCHS). Find the raw data [here](https://data.cdc.gov/NCHS/Weekly-counts-of-deaths-by-jurisdiction-and-race-a/qfhf-uhaa). Names of racial and ethnic groups presented reflect those used by the CDC-NCHS. Data in recent weeks are incomplete--only 60% of death records are submitted to CDC-NCHS within 10 days of the date of death, and completeness varies by jurisdiction. Video files of each image can be found in the [directory 'mp4'](https://github.com/reeserich/visualize_excess_deaths/tree/main/mp4).
 
@@ -15,7 +15,7 @@ Data is from the Centers for Disease Control and Prevention National Center for 
 
 [Watch on YouTube.](https://youtu.be/xJOJGUFKKkc)
 
-## Relative change (percent excess) in weekly all-cause deaths by race/ethnicity, 2020-2021:
+## Relative change (percent excess) in weekly all-cause deaths by race/ethnicity, 2020-2022:
 
 <img src="gif/non_hispanic_white.gif" width="600">
 
